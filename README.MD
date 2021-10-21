@@ -39,12 +39,6 @@ _Si es para ejecutarlo en modo **Desarrollo**_
 npm run dev 
 ```
 
-_O para modo **Producción**_
-
-
-```
-npm start
-```
 
 ## Documentación del proyecto 📖
 
